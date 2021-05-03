@@ -58,8 +58,13 @@ And all the repositories within `repos.json` will be deleted! It's that easy.
 
 The scripts can be potentially modified to work on an organization's repositories as well just by changing the URLs. Pull requests to support this feature are welcome.
 
-## License
+See also
+--------
 
+- [yangshun/delete-github-forks](https://github.com/yangshun/delete-github-forks)
+
+---
+
+License
+-------
 MIT
-
-sub-credit: https://github.com/yangshun/delete-github-forks
